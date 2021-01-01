@@ -5,7 +5,7 @@ To contribute to this project, DM me at Titch#2236 on Discord with the files you
 
 The link to the actual files, because it too big for Github, will be on a GD link in this file.
 
-Link : https://drive.google.com/file/d/1pb1VfoAYGwW0QOTOgs71iPC2w25Y7fDl/view?usp=sharing
+Link : https://drive.google.com/file/d/112_xMfwrj37Zx-E3EPvNa5ZBLsJrBW6n/view?usp=sharing
 
 Credits:
 
@@ -17,7 +17,7 @@ Makks
 
 Archieleaks
 
-Zyloxs
+Zylox
 
 SL-x-TnT
 
@@ -38,6 +38,8 @@ Syfe
 Androidy
 
 Titch
+
+Samicc
 
 If anyone here has a problem with me using the files for this project, please message me on the mentioned discord account
 and i will remove it from the archives as soon as i possibly can!
