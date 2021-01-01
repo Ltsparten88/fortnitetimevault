@@ -3,9 +3,9 @@ Hi! Welcome to the Fortnite Time Vault!
 This Github project will contain as much Fortnite content from the past and the future so in years we can look back on the days and weeks we spent on Fortnite.
 To contribute to this project, DM me at Titch#2236 on Discord with the files you would like to add to this Time Capsule. 
 
-The link to the actual files, because it too big for Github, will be on a GD link in this file.
+The link to the actual files, because it too big for Github, will be on my website under Projects, Fortnite Time Vault! it will take you to a GD link to install it.
 
-Link : https://drive.google.com/file/d/112_xMfwrj37Zx-E3EPvNa5ZBLsJrBW6n/view?usp=sharing
+Link : https://titch.ml/ 
 
 Credits:
 
