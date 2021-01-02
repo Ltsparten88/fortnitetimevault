@@ -5,6 +5,8 @@ To contribute to this project, DM me at Titch#2236 on Discord with the files you
 
 The link to the actual files, because it too big for Github, will be on my website under Projects, Fortnite Time Vault! it will take you to a GD link to install it.
 
+If you want to browse or download specific files, you can download them directly from the main github part, Thanks to Syfe for doing the magic he did on it :)
+
 Link : https://titch.ml/ 
 
 Credits:
