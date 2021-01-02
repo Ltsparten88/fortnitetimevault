@@ -1,0 +1,162 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FortniteReplayDumper/1.0.0": {
+        "dependencies": {
+          "FortniteReplayReader": "1.1.1",
+          "Microsoft.Extensions.DependencyInjection": "3.1.5"
+        },
+        "runtime": {
+          "FortniteReplayDumper.dll": {}
+        }
+      },
+      "FastMember/1.5.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/FastMember.dll": {
+            "assemblyVersion": "1.5.0.0",
+            "fileVersion": "1.5.0.0"
+          }
+        }
+      },
+      "FortniteReplayReader/1.1.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.3",
+          "Unreal.Core": "1.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/FortniteReplayReader.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/3.1.5": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.5"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "3.1.5.0",
+            "fileVersion": "3.100.520.27009"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.5": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "3.1.5.0",
+            "fileVersion": "3.100.520.27009"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/3.1.3": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "3.1.3.0",
+            "fileVersion": "3.100.320.12802"
+          }
+        }
+      },
+      "OozSharp/1.1.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/OozSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Unreal.Core/1.1.1": {
+        "dependencies": {
+          "FastMember": "1.5.0",
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.3",
+          "Unreal.Encryption": "1.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Unreal.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Unreal.Encryption/1.1.1": {
+        "dependencies": {
+          "OozSharp": "1.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Unreal.Encryption.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FortniteReplayDumper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FastMember/1.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Db80coUbys8VgmcrR9mxUR+EInTpweoLM0GFJXIBuj8+PTgqV+ygq+EOM3HME83tob1+RR9XlBcEkpfFyypdHg==",
+      "path": "fastmember/1.5.0",
+      "hashPath": "fastmember.1.5.0.nupkg.sha512"
+    },
+    "FortniteReplayReader/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h9BGZuFJ6D1z4kVCF58AKxzJ0Hnu3ACUXtQE55peJI4ORj8jOtXEhqn22PpHemPj2nWR/iYR7Ob+PtLJrA9kNQ==",
+      "path": "fortnitereplayreader/1.1.1",
+      "hashPath": "fortnitereplayreader.1.1.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/3.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I+RTJQi7TtenIHZqL2zr6523PYXfL88Ruu4UIVmspIxdw14GHd8zZ+2dGLSdwX7fn41Hth4d42S1e1iHWVOJyQ==",
+      "path": "microsoft.extensions.dependencyinjection/3.1.5",
+      "hashPath": "microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2VSCj2TZPMdeEi279Lawi6qJQu4+sEWizSOYrhY6hapyS1jxn1jVUZT1Ugv68bya+x8+3lD4+RqhUZql9PhISQ==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.5",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/3.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j6r0E+OVinD4s13CIZASYJLLLApStb1yh5Vig7moB2FE1UsMRj4TYJ/xioDjreVA0dyOFpbWny1/n2iSJMbmNg==",
+      "path": "microsoft.extensions.logging.abstractions/3.1.3",
+      "hashPath": "microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512"
+    },
+    "OozSharp/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FlsrqLCZzMs1gQwSeEE/YTpbb3Gx8t13GgYBjFJXbk3IY/kZ567sCiy8aYduJ5vAxDvIABdg7or7TsRBY+eIyQ==",
+      "path": "oozsharp/1.1.1",
+      "hashPath": "oozsharp.1.1.1.nupkg.sha512"
+    },
+    "Unreal.Core/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fc0UO+e4EgDXeyQVSrxTaRh5V20bP4tCz19CkK757yzOpegpyabAcuaM0HocBFp4LHyeyDHA2ReHt4bJ8rZpUg==",
+      "path": "unreal.core/1.1.1",
+      "hashPath": "unreal.core.1.1.1.nupkg.sha512"
+    },
+    "Unreal.Encryption/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wnL76TVpP+ji4tD4OKNOaHxK7Rs68ruges83tYH9qEfG+N2bo73XyMOEtw12XQdl82UAmePihPdqTF+S+Mr2aQ==",
+      "path": "unreal.encryption/1.1.1",
+      "hashPath": "unreal.encryption.1.1.1.nupkg.sha512"
+    }
+  }
+}
