@@ -38,15 +38,13 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li><a href="#about-the-vault">About The Vault</a></li>
-    <li><a href="#contributing">Contributing to the Vault</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
+## Table of Contents
+<ol>
+ <li><a href="#about-the-vault">About The Vault</a></li>
+ <li><a href="#contributing">Contributing to the Vault</a></li>
+ <li><a href="#contact">Contact</a></li>
+ <li><a href="#acknowledgements">Acknowledgements</a></li>
+</ol>
 
 ## All credits to any projects found in the vault can be found [here.](vaulted_projects_credits.md)
 
