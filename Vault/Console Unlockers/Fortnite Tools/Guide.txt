@@ -1,0 +1,12 @@
+NOTE: For any of this to work, you need a custom server!
+
+Guide:
+1.) Download all the files.
+2.) Copy "TheEndEvent.replay" to "%localappdata%\FortniteGame\Saved\Demos".
+3.) Launch Fortnite (10.40), with the custom server.
+4.) Open the replay, as soon as the Battle Bus starts pause the replay.
+5.) Inject "FortniteTools.dll" into FortniteClient.
+6.) Go back to Fortnite, press "`" and then type "StreamMap NightNightSequenceMap". (If most of the ground is missing, this means it worked.)
+7.) Seek to around "8:00", the event should start shortly.
+
+Have fun, I have not tested the Console Unlocker on any other version other than 10.40.

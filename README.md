@@ -48,7 +48,7 @@
   </ol>
 </details>
 
-
+## All credits to any projects found in the vault can be found [here.](vaulted_projects_credits.md)
 
 <!-- ABOUT THE VAULT -->
 ## About The Vault

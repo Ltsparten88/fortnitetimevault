@@ -1,0 +1,5 @@
+hxdHair - pakchunk10-WindowsClient
+
+Suit - pakchunk10_s11-WindowsClient
+
+Face - pakchunk10_s2-WindowsClient
